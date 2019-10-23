@@ -29,7 +29,7 @@ public class MillionsTest {
 
         m.loops(upperlimit);
 
-        upperlimit = 100000000;
+        upperlimit = 70000000;
         m = new Millions(upperlimit);
 
         m.loops(upperlimit);
